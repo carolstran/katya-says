@@ -16,7 +16,13 @@ const katyaQuotes = [
   "I feel confident, I feel sexy, I feel stupid",
   "You know you want this crocheted pussy",
   "When do we get to blow them? I can't say that?",
-  "You can put a fucking man on the moon, but I can't get laid?"
+  "You can put a fucking man on the moon, but I can't get laid?",
+  "I went into the women's restroom by accident earlier today and as I was peeing I quietly whispered I'm sorry and then I left. It was fine",
+  "Can you even fuck a pokeman?",
+  "I want a strong capable man who was voted in high school most likely to replace his tooth enamel with salt water taffy. I want that man now",
+  "Sometimes I need to drop everything and check to see if I have shit myself",
+  "Have you ever startled yourself awake in the middle of the night knowing your name was Kathleen and you needed to fight for what was right?",
+  "Have you ever woken up in the morning with amnesia but then looked in the mirror and screamed and shouted oh yes god this will do just fine"
 ];
 
 const wordArtStyles = [
